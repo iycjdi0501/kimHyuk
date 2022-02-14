@@ -1,4 +1,4 @@
-# vueslide4
+# main
 
 ## Project setup
 ```
